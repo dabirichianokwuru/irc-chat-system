@@ -34,7 +34,7 @@ Once you're connected, you can use these commands
 ## Messaging
 - MSG <room_name> <message> - Send message
 
-##Other
+## Other
 - HELP - Show available commands
 - QUIT - Disconnect from server
 
